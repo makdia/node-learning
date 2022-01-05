@@ -1,0 +1,15 @@
+{
+  "name": "first-pack",
+  "version": "1.0.0",
+  "description": "This is my first npm learning package",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Makdia <makdiahussain81@gmail.com> (https://github.com/makdia)",
+  "license": "ISC"
+}
